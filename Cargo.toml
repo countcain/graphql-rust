@@ -1,6 +1,6 @@
 [package]
 name = "graph_ql"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Tao Huang <countcainht@gmail.com>"]
 description = "A reference implementation of GraphQL for Rust lang."
 
